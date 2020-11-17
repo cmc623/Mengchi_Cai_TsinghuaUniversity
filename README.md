@@ -14,7 +14,7 @@ Mr. Mengchi Cai received the B.S. degree in automotive engineering from Tsinghua
 -> Onboard safety monitoring for real-time assessment of control inputs through wireless communication.
 
 # Publications
-Mr. Mengchi Cai has published two papers in the field of multi-vehicle coordination, include:
+Mr. Mengchi Cai has published two papers in the field of multi-vehicle coordination:
 
 <1> Xu, Q., Cai, M., Li, K., Xu, B., Wang, J., & Wu, X. (2020). Coordinated Formation Control for Intelligent and Connected Vehicles in Multiple Traffic Scenarios. Accepted by IET Intelligent Transport Systems. (arXiv:2010.15531) (https://arxiv.org/abs/2010.15531)
 
