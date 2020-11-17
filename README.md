@@ -3,7 +3,7 @@ A brief introduction to Mr.Mengchi Cai's research.
 
 Mr. Mengchi Cai received the B.S. degree in automotive engineering from Tsinghua University, Beijing, China, in 2018. He is currently a Ph.D. candidate at School of Vehicle and Mobility, Tsinghua University, Beijing, China. His current research interests include:
 
--> Intelligent and connected cloud control system and its control technology;\\
+-> Intelligent and connected cloud control system and its control technology;\n
 -> Task assignment and formation control for multiple vehicles on multi-lane roads;
 -> Conflict-free coordinating of vehicles at unsignalized intersections and road networks;
 -> Coordinated trajectory planning and tracking for multiple vehicles in complex environment;
