@@ -17,7 +17,7 @@ I received the B.S. degree in automotive engineering from Tsinghua University, B
 # Publications
 I have published several papers in the field of multi-vehicle coordination:
 
-<1> Xu, Q., Cai, M., Li, K., Xu, B., Wang, J., & Wu, X. (2020). Coordinated Formation Control for Intelligent and Connected Vehicles in Multiple Traffic Scenarios. Accepted by IET Intelligent Transport Systems. (arXiv:2010.15531) (https://arxiv.org/abs/2010.15531)
+<1> Xu, Q., Cai, M., Li, K., Xu, B., Wang, J., & Wu, X. (2020). Coordinated formation control for intelligent and connected vehicles in multiple traffic scenarios. IET Intelligent Transport Systems. (https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12022)
 
 <2> Cai, M., Xu, Q., Li, K., & Wang, J. (2019, June). Multi-lane Formation Assignment and Control for Connected Vehicles. In 2019 IEEE Intelligent Vehicles Symposium (IV) (pp. 1968-1973). IEEE. (https://ieeexplore.ieee.org/abstract/document/8813792)
 
