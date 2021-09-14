@@ -17,9 +17,17 @@ I received the B.S. degree in automotive engineering from Tsinghua University, B
 # Publications
 I have published several papers in the field of multi-vehicle coordination:
 
-<1> Xu, Q., Cai, M., Li, K., Xu, B., Wang, J., & Wu, X. (2020). Coordinated formation control for intelligent and connected vehicles in multiple traffic scenarios. IET Intelligent Transport Systems. (https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12022)
+[1] Cai M, Xu Q, Li K, et al. Multi-lane formation assignment and control for connected vehicles[C]//2019 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2019: 1968-1973. (https://ieeexplore.ieee.org/abstract/document/8813792)
 
-<2> Cai, M., Xu, Q., Li, K., & Wang, J. (2019, June). Multi-lane Formation Assignment and Control for Connected Vehicles. In 2019 IEEE Intelligent Vehicles Symposium (IV) (pp. 1968-1973). IEEE. (https://ieeexplore.ieee.org/abstract/document/8813792)
+[2] Xu Q, Cai M, Li K, et al. Coordinated formation control for intelligent and connected vehicles in multiple traffic scenarios[J]. IET Intelligent Transport Systems, 2021. (https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12022)
+
+[3] Cai M, Xu Q, Chen C, et al. Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads[J]. arXiv e-prints, 2021: arXiv: 2103.10287v1. (https://arxiv.org/abs/2103.10287)
+
+[4] Cai M, Xu Q, Chen C, et al. Formation Control for Connected and Automated Vehicles on Multi-lane Roads: Relative Motion Planning and Conflict Resolution[J]. arXiv preprint arXiv:2103.10287v3, 2021. (https://arxiv.org/abs/2103.10287)
+
+[5] Cai M, Chen C, Wang J, et al. Formation Control with Lane Preference for Connected and Automated Vehicles in Multi-lane Scenarios[J]. arXiv preprint arXiv:2106.11763, 2021. (https://arxiv.org/abs/2106.11763)
+
+[6] Cai M, Xu Q, Chen C, et al. Multi-lane Unsignalized Intersection Cooperation with Flexible Lane Direction based on Multi-vehicle Formation Control[J]. arXiv preprint arXiv:2108.11112, 2021. (https://arxiv.org/abs/2108.11112)
 
 # Examples
 Here are some examples of my research demos:
