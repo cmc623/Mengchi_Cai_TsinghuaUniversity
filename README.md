@@ -23,7 +23,7 @@ I have published several papers in the field of multi-vehicle coordination:
 
 [2] Xu Q, Cai M, Li K, et al. Coordinated formation control for intelligent and connected vehicles in multiple traffic scenarios[J]. IET Intelligent Transport Systems, 2021. (https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12022)
 
-[3] Cai M, Xu Q, Chen C, et al. Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads[J]. arXiv e-prints, 2021: arXiv: 2103.10287v1. (https://arxiv.org/abs/2103.10287)
+[3] Cai M, Xu Q, Chen C, et al. Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads[C]. Accepted by IEEE International Conference on Intelligent Transportation Systems, 2021. (https://arxiv.org/abs/2103.10287)
 
 [4] Cai M, Xu Q, Chen C, et al. Formation Control for Connected and Automated Vehicles on Multi-lane Roads: Relative Motion Planning and Conflict Resolution[J]. arXiv preprint arXiv:2103.10287v3, 2021. (https://arxiv.org/abs/2103.10287)
 
