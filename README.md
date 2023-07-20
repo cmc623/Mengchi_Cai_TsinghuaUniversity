@@ -1,10 +1,10 @@
 # Mengchi_Cai_TsinghuaUniversity
 A brief introduction to Mr.Mengchi Cai's research.
-Contact me with: cmc18@mails.tsinghua.edu.cn
+Contact me with: caimengchi@mail.tsinghua.edu.cn
 
 You can follow my research on Researchgate: https://www.researchgate.net/profile/Mengchi-Cai
 
-I received the B.S. degree in automotive engineering from Tsinghua University, Beijing, China, in 2018. I am currently a Ph.D. candidate at School of Vehicle and Mobility, Tsinghua University, Beijing, China. My current research interests include:
+I received the B.S. and Ph. D. degree in automotive engineering and mechanical engineering from Tsinghua University, Beijing, China, in 2018 and 2023 respectively. I am currently a post doctoral researcher at School of Vehicle and Mobility, Tsinghua University, Beijing, China. My current research interests include:
 
 -> Intelligent and connected cloud control system and its control technology;
 
@@ -19,17 +19,18 @@ I received the B.S. degree in automotive engineering from Tsinghua University, B
 # Publications
 I have published several papers in the field of multi-vehicle coordination:
 
-[1] Cai M, Xu Q, Li K, et al. Multi-lane formation assignment and control for connected vehicles[C]//2019 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2019: 1968-1973. (https://ieeexplore.ieee.org/abstract/document/8813792)
+[1] Cai M, Xu Q, Chen C, et al. Multi-lane unsignalized intersection cooperation with flexible lane direction based on multi-vehicle formation control[J]. IEEE Transactions on Vehicular Technology, 2022, 71(6): 5787-5798. (https://ieeexplore.ieee.org/abstract/document/9740423/)
 
-[2] Xu Q, Cai M, Li K, et al. Coordinated formation control for intelligent and connected vehicles in multiple traffic scenarios[J]. IET Intelligent Transport Systems, 2021. (https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12022)
+[2] Xu Q, Cai M, Li K, et al. Coordinated formation control for intelligent and connected vehicles in multiple traffic scenarios[J]. IET Intelligent Transport Systems, 2021, 15(1): 159-173. (https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12022)
 
-[3] Cai M, Xu Q, Chen C, et al. Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads[C]. Accepted by IEEE International Conference on Intelligent Transportation Systems, 2021. (https://arxiv.org/abs/2103.10287)
+[3] Cai M, Xu Q, Li K, et al. Multi-lane formation assignment and control for connected vehicles[C]//2019 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2019: 1968-1973. (https://ieeexplore.ieee.org/abstract/document/8813792)
 
-[4] Cai M, Xu Q, Chen C, et al. Formation Control for Connected and Automated Vehicles on Multi-lane Roads: Relative Motion Planning and Conflict Resolution[J]. arXiv preprint arXiv:2103.10287v3, 2021. (https://arxiv.org/abs/2103.10287)
+[4] Cai M, Xu Q, Chen C, et al. Formation control with lane preference for connected and automated vehicles in multi-lane scenarios[J]. Transportation research part C: emerging technologies, 2022, 136: 103513. (https://www.sciencedirect.com/science/article/pii/S0968090X21004964)
 
-[5] Cai M, Chen C, Wang J, et al. Formation Control with Lane Preference for Connected and Automated Vehicles in Multi-lane Scenarios[J]. arXiv preprint arXiv:2106.11763, 2021. (https://arxiv.org/abs/2106.11763)
+[5] Cai M, Xu Q, Chen C, et al. Formation control for connected and automated vehicles on multi‐lane roads: Relative motion planning and conflict resolution[J]. IET Intelligent Transport Systems, 2023, 17(1): 211-226. (https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12249)
 
-[6] Cai M, Xu Q, Chen C, et al. Multi-lane Unsignalized Intersection Cooperation with Flexible Lane Direction based on Multi-vehicle Formation Control[J]. arXiv preprint arXiv:2108.11112, 2021. (https://arxiv.org/abs/2108.11112)
+[6] Cai M, Xu Q, Chen C, et al. Formation control for multiple connected and automated vehicles on multi-lane roads[C]//2021 IEEE International Intelligent Transportation Systems Conference (ITSC). IEEE, 2021: 1940-1945. (https://ieeexplore.ieee.org/abstract/document/9564760)
+
 
 # Examples
 Here are some examples of my research demos:
